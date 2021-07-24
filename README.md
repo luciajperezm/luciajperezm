@@ -16,5 +16,5 @@
 
 
 ## Latest Projects 💻
-### 1️⃣ Landing Page - Ferraros Pizzeria 🍕
+### 1️⃣ Landing Page - Ferraro's Pizzeria 🍕
 #### Beautiful website made for a Pizza restaurant. The main goal was to build an online presence for the business and provide valuable information to potential customers such as: menu, services, upcoming events and others. Check out the live Demo ( https://ferrarospizzeria.netlify.app ) 
