@@ -16,5 +16,8 @@
 
 
 ## Latest Projects 💻
-### 1️⃣ Landing Page - Ferraro's Pizzeria 🍕
+### 1️⃣ Full stack web application - Loan Management System 🤝
+#### Web app made for a leasing company. The main goal was to build a management system that could register customers, users, products, transactions and generate receipts. It was built with Php, MySQL, PDO, Bootstrap, Ajax, POO and the MVC design pattern. Check out the live Demo ( http://lease-management.epizy.com/ ) 
+
+### 2️⃣ Landing Page - Ferraro's Pizzeria 🍕
 #### Beautiful website made for a Pizza restaurant. The main goal was to build an online presence for the business and provide valuable information to potential customers such as: menu, services, upcoming events and others. Check out the live Demo ( https://ferrarospizzeria.netlify.app ) 
